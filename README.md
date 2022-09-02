@@ -13,7 +13,7 @@ Because the buttons, PayPal offers do not fit to other buttons which are often n
 
 ## :eyes: Demonstration
 
-[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y)
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.com/donate/?hosted_button_id=KBUV9X67U6XYW)
 
 ### Markdown
 
@@ -22,14 +22,14 @@ Because the buttons, PayPal offers do not fit to other buttons which are often n
   ![Donate with PayPal]
   (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
 ]
-(https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y)
+(https://www.paypal.com/donate/?hosted_button_id=KBUV9X67U6XYW)
 ```
 
 ### HTML
 
 ```html
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y">
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
+<a href="https://www.paypal.com/donate/?hosted_button_id=KBUV9X67U6XYW"> 
+<img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
 </a>
 ```
 
@@ -39,4 +39,4 @@ This project does not use or include any resource from PayPal. It is created com
 
 **Important**
 
-Use this project at your own risc. The authors and contributors will not be able to provide any help if PayPal complains about usage.
+Use this project at your own risk. The authors and contributors will not be able to provide any help if PayPal complains about usage.
